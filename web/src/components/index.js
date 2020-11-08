@@ -362,7 +362,7 @@ class index extends Component {
                   <div className="form-group">
                   <Input
                       type="text"
-                      placeholder="Search By Name"
+                       placeholder="Search By Name"
                       name="search"
                        value={search}
                       required
